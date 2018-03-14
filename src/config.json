@@ -1,0 +1,15 @@
+{
+    "title": "PHP Box application example",
+    "width": 600,
+    "height": 305,
+    "package": {
+        "id": "pendrive-formatter",
+        "version": "1.0",
+        "description": "Simple FAT32 pendrive formatter",
+        "author": {
+            "name": "Filis Futsarov",
+            "email": "filisfutsarvo@gmail.com"
+        },
+        "categories": ["Office"]
+    }
+}

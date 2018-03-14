@@ -1,0 +1,3 @@
+[submodule "src/system"]
+	path = src/system
+	url = https://github.com/filisko/phpbox-system

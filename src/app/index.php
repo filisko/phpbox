@@ -4,7 +4,6 @@
         <meta charset="utf-8">
     </head>
     <body>
-        <h1>Hola</h1>
-
+        <h1>PHP Box</h1>
     </body>
 </html>

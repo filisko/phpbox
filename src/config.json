@@ -3,12 +3,12 @@
     "width": 600,
     "height": 305,
     "package": {
-        "id": "pendrive-formatter",
+        "id": "phpbox-application",
         "version": "1.0",
-        "description": "Simple FAT32 pendrive formatter",
+        "description": "Example PHP box application",
         "author": {
             "name": "Filis Futsarov",
-            "email": "filisfutsarvo@gmail.com"
+            "email": "filisfutsarov@gmail.com"
         },
         "categories": ["Office"]
     }
